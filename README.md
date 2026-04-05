@@ -26,7 +26,7 @@ This repository contains the **compiled binary assets** and **integration header
 
 ### Hash Verification
 * **WASM Hash:** `977eb7bb206600278c34aa66e5c20f9d429c24952fde144e26cc875d9e849d8a`
-* **Static Lib (.a) Hash:** [Run `shasum -a 256` on your .a file and paste here]
+* **Static Lib (.a) Hash:** b05ff7022a3a5922eb3d405b2410f4fe7759edfba5669cdd7c683a7ad7f660c6
 
 ### Acquisition & Commercial Access
 For full source-code audits, strategic acquisitions (Tier 1), or private production licenses for HFT desks, contact **The Keeper** (@Pray4Love1). 
