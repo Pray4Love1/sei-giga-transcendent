@@ -4,7 +4,7 @@
 
 **Zeta-Omega Infinity** is a closed-source, hardware-accelerated execution primitive designed for the **Sei Giga** ecosystem and high-density **HFT/MEV** environments. It leverages extreme **AVX2 SIMD saturation** to eliminate the computational overhead of state-changing logic in parallelized EVM environments.
 
-## 🚀 Performance Architecture
+## Performance Architecture
 The kernel operates at the register level, bypassing standard VM interpretation layers to achieve raw silicon throughput.
 
 ### Verified Benchmarks (Apple Silicon/Intel AVX2)
@@ -21,7 +21,7 @@ Zeta-Omega integrates security and state-scanning directly into the execution lo
 * **Enshrined MEV-Shield:** Atomic detection of frontrunning/sandwiching patterns at the execution boundary.
 * **Memory-Mapped FFI:** Direct pointer passing to eliminate Go/Rust marshaling costs.
 
-## 🗝️ Intellectual Property & Licensing
+## Intellectual Property & Licensing
 This repository contains the **compiled binary assets** and **integration headers** for the Zeta-Omega Infinity kernel. The underlying source code (Rust/ASM) is proprietary and protected under the **SolaraKin Sovereign Framework**.
 
 ### Hash Verification
